@@ -1,0 +1,4 @@
+Victor 2
+Vanya 6
+Masha 3
+Sergey 6

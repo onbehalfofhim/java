@@ -1,0 +1,36 @@
+org/example/model/Point.java
+ org.example.model.Point
+org/example/events/Event.java
+ org.example.events.Event
+org/example/model/ShipDirection.java
+ org.example.model.ShipDirection
+org/example/model/Rectangle.java
+ org.example.model.Rectangle
+org/example/model/Cell.java
+ org.example.model.Cell
+org/example/model/InvalidShipPlacementException.java
+ org.example.model.InvalidShipPlacementException
+org/example/controllers/GameResultController.java
+ org.example.controllers.GameResultController
+org/example/model/InvalidDataException.java
+ org.example.model.InvalidDataException
+org/example/controllers/Controller.java
+ org.example.controllers.Controller
+org/example/model/Ship.java
+ org.example.model.Ship
+org/example/views/PlayerFieldView.java
+ org.example.views.PlayerFieldView
+org/example/model/Field.java
+ org.example.model.Field
+org/example/controllers/GameController.java
+ org.example.controllers.GameController
+org/example/views/OpponentFieldView.java
+ org.example.views.OpponentFieldView
+org/example/Game.java
+ org.example.Game
+org/example/views/FieldView.java
+ org.example.views.FieldView
+org/example/controllers/ShipPlacementController.java
+ org.example.controllers.ShipPlacementController
+org/example/views/ShipPlacementView.java
+ org.example.views.ShipPlacementView
